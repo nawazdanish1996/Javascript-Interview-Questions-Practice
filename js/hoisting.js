@@ -29,19 +29,3 @@
 //     console.log(3);
 // }
 // real();
-
-// console.log("Name "+ name);
-// var name;
-// name = "Nawaz Danish";
-
-// fn();
-// function fn(){
-//     console.log("Hello from fn");
-// }
-// fn();
-
-// fnContainer();
-var fnContainer = function(){
-    console.log("I am an expression");
-}
-fnContainer();
