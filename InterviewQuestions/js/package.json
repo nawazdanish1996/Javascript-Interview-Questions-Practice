@@ -1,0 +1,12 @@
+{
+  "name": "js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "one.js",
+  "scripts": {
+    "start": "nodemon three.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

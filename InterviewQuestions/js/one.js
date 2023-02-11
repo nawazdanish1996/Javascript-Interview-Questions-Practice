@@ -1,7 +1,12 @@
 // find Largest and smallest element in an Array
 
-let arr = [1, 2, 3, 4, 5];
+var arr = [55, 9, 36, 456, 88];
+let min = arr.reduce((smallNum, num)=> Math.min(smallNum, num));
+let max = arr.reduce((smallNum, num)=> Math.max(smallNum, num));
+console.log("Minimum Number is: "+min);
+console.log("Maximum Number is: "+max);
 
-for(let i=0; i<arr.length; i++){
-    console.log(arr[i]);
-}
+// const myFun = (arr) =>{
+//     return arr.reduce((smallNum, num)=> Math.max(smallNum, num))
+// };
+// console.log(myFun(arr));

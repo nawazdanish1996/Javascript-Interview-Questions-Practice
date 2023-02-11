@@ -1,2 +1,5 @@
 1. find Largest and smallest element in an Array
-2. 
+2. Merge Two Array, Sorted Array in Ascending order by removing Duplicates
+3. Array Destructuring in JavaScript
+4. Remove duplicates in one line
+5. 
